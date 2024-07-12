@@ -1,0 +1,25 @@
+function change(id, attribute, value)
+{
+    console.log(`We are changing ${id}'s value from ${document.getElementById(id)[attribute]}to ${value}`);
+    document.getElementById(id)[attribute] = value;
+}
+
+window.onload = function()
+{
+    if (document.title == "About Lyn Snow")
+    {
+        console.log("Loaded About Snow");
+
+        change("aroace", "href", "https://en.wikipedia.org/wiki/Aromanticism");
+        change("nonbinary", "href", "https://en.wikipedia.org/wiki/Non-binary_gender");
+        change("summary", "href", "https://steamcommunity.com/id/kitsunesnows");
+        
+        change("redirect_tf2", "href", "https://drive.google.com/drive/folders/1E2Ok-QroC-TVK35oLRF44J4QhtnxBSgO?usp=drive_link");
+
+        // document.getElementById("aroace").href = "https://en.wikipedia.org/wiki/Aromanticism";
+        // document.getElementById("nonbinary").href = "https://en.wikipedia.org/wiki/Non-binary_gender";
+        // document.getElementById("summary").href = "https://steamcommunity.com/id/kitsunesnows";
+
+        // document.getElementById("redirect_tf2").href = "https://drive.google.com/drive/folders/1E2Ok-QroC-TVK35oLRF44J4QhtnxBSgO?usp=drive_link";
+    }
+}
