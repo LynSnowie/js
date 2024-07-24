@@ -22,7 +22,7 @@ window.onload = function()
     {
         console.log("Loaded Snowi");
 
-        change("tiktok redirect", "href", "https://tiktok.com/@your_fuzzy_james");
+        change("tiktok redirect", "href", "https://tiktok.com/@your_fuzzy_snowi"); //your_fuzzy_james
         change("youtube redirect", "href", "https://www.youtube.com/@fuzzysnowie");
         change("patreon redirect", "href", "https://www.patreon.com/lynsnowie");
         change("nonbin redirect", "href", "https://en.wikipedia.org/wiki/Non-binary_gender");
