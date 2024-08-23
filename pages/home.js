@@ -3,7 +3,7 @@ const menuItems = [
     { name: "Home", url: "file:///I:/new%20silly%20site" },
     { name: "About Snowy", url: "file:///I:/new%20silly%20site/pages/about_snowy" },
     { name: "About Lolie", url: "file:///I:/new%20silly%20site/pages/about_lolie" },
-    { name: "About Glowy", url: "file:///I:/new%20silly%20site/pages/about_glowy" },
+    { name: "About Glowy", url: "file:///I:/new%20silly%20site/pages/about_snowglow" },
     // Add more items here as needed
 ];
 
