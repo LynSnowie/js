@@ -1,9 +1,9 @@
 // Define the menu items
 const menuItems = [
-    { name: "Home", url: "file:///I:/new%20silly%20site" },
-    { name: "About Snowy", url: "file:///I:/new%20silly%20site/pages/about_snowy" },
+    { name: "Home", url: "https://lynsnowie.github.io" },
+    { name: "About Snowy", url: "https://lynsnowie.github.io/pages/about_snowy" },
     // { name: "About Lolie", url: "file:///I:/new%20silly%20site/pages/about_lolie" }, // Fuck you Lynn/lolie. you crazy nigga trying to break my relationship.
-    { name: "About Glowy", url: "file:///I:/new%20silly%20site/pages/about_snowglow" },
+    { name: "About Glowy", url: "https://lynsnowie.github.io/pages/about_snowglow" },
     // Add more items here as needed
 ];
 
