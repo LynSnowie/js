@@ -2,7 +2,7 @@
 const menuItems = [
     { name: "Home", url: "file:///I:/new%20silly%20site" },
     { name: "About Snowy", url: "file:///I:/new%20silly%20site/pages/about_snowy" },
-    { name: "About Lolie", url: "file:///I:/new%20silly%20site/pages/about_lolie" },
+    // { name: "About Lolie", url: "file:///I:/new%20silly%20site/pages/about_lolie" }, // Fuck you Lynn/lolie. you crazy nigga trying to break my relationship.
     { name: "About Glowy", url: "file:///I:/new%20silly%20site/pages/about_snowglow" },
     // Add more items here as needed
 ];
