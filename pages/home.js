@@ -1,9 +1,9 @@
 // Define the menu items
 const menuItems = [
-    { name: "Home", url: "#" },
-    { name: "About Snowi", url: "#" },
-    { name: "About Lolie", url: "#" },
-    { name: "About Glowy", url: "#" },
+    { name: "Home", url: "file:///I:/new%20silly%20site" },
+    { name: "About Snowy", url: "file:///I:/new%20silly%20site/pages/about_snowy" },
+    { name: "About Lolie", url: "file:///I:/new%20silly%20site/pages/about_lolie" },
+    { name: "About Glowy", url: "file:///I:/new%20silly%20site/pages/about_glowy" },
     // Add more items here as needed
 ];
 
