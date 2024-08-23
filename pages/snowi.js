@@ -13,7 +13,7 @@ function redirect(site) {
     localStorage.setItem("Snowi Redirecting", true)
     localStorage.setItem("Snowi Redirect Page", site)
     localStorage.setItem("Snowi Prev Page", "")
-    window.location = "../redirect"
+    window.location = "../redirect.html"
 }
 
 window.onload = function()
